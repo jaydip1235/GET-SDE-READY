@@ -72,7 +72,7 @@ function App() {
           <div class="row">
             <div class="col-lg-8">
               <h1>
-                <span>Get SDE Ready</span>
+                <span style={{color:"black"}}>Get SDE Ready</span>
               </h1>
               <br />
               <h2 style={{ fontWeight: "bold" }}>

@@ -75,8 +75,8 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(12, 11, 9, 0.6);
-  border-bottom: 1px solid rgba(12, 11, 9, 0.6);
+  /* background: rgba(12, 11, 9, 0.6); */
+  /* border-bottom: 1px solid rgb(255 249 238 / 60%); */
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -291,14 +291,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80") top center;
+  background: url("https://themewagon.github.io/tutor/images/hero_bg.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
 }
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.3);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -318,7 +318,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: black;
   font-family: "Poppins", sans-serif;
 }
 #hero h1 span {
