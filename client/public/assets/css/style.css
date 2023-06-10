@@ -4,9 +4,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   /* background: lightsalmon; */
-  color: white;
-  background-color: #00f2de;
-background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+  background-color: #fafafa;
+background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
@@ -142,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: aqua;
+  color: black;
 }
 .navbar .dropdown ul {
   display: block;
@@ -581,10 +580,11 @@ section {
 --------------------------------------------------------------*/
 .why-us .box {
   padding: 50px 30px;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 6px 6px 6px rgba(183, 183, 183);
   transition: all ease-in-out 0.6s !important;
-  background: #1a1814;
+  background: #f0efef;
   height: 350px;
+  border-radius: 20px;
 }
 .why-us .box span {
   display: block;
@@ -597,22 +597,22 @@ section {
   font-weight: 600;
   padding: 0;
   margin: 20px 0;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 0);
 }
 .why-us .box p {
-  color: #aaaaaa;
+  color: #00000062;
   font-size: 15px;
   margin: 0;
   padding: 0;
 }
 .why-us .box:hover {
-  background: rgb(4, 130, 130);
+  background: #e5e3e3;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
   cursor: pointer;
 }
 .why-us .box:hover span, .why-us .box:hover h4, .why-us .box:hover p {
-  color: #fff;
+  color: #1e1e1e;
 }
 
 
