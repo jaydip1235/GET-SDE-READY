@@ -608,7 +608,7 @@ section {
 .why-us .box:hover {
   background: #e5e3e3;
   padding: 30px 30px 70px 30px;
-  box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.18);
   cursor: pointer;
 }
 .why-us .box:hover span, .why-us .box:hover h4, .why-us .box:hover p {
