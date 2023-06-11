@@ -10,12 +10,13 @@ background-image: url("https://www.transparenttextures.com/patterns/brilliant.pn
 }
 
 a {
-  color: #cda45e;
+  color: rgba(0, 0, 0, 0.691);
   text-decoration: none;
+  font-weight: bolder;
 }
 
 a:hover {
-  color: #d9ba85;
+  color: black;
   text-decoration: none;
 }
 
@@ -629,18 +630,18 @@ section {
   border: 0;
   padding: 12px 15px;
   transition: 0.3s;
-  color: rgb(5, 29, 212);
+  color: rgba(0, 0, 0, 0.435);
   border-radius: 0;
   border-right: 2px solid #cda45e;
   font-weight: 600;
   font-size: 15px;
 }
 .specials .nav-link:hover {
-  color: rgb(27, 114, 219);
+  color: rgba(0, 0, 0, 0.57);
 }
 .specials .nav-link.active {
   color: #1a1814;
-  background: rgb(19, 116, 244);
+  background: #f0efef;
   border-color: rgb(2, 73, 179);
 }
 .specials .nav-link:hover {
@@ -833,7 +834,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: rgb(8, 84, 197);
+  background: #e3e3e3;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -906,7 +907,7 @@ section {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
-  background: #0c0b09;
+  background: #f0efef;
   border-color: #625b4b;
   color: white;
 }
@@ -1091,8 +1092,8 @@ section {
 }
 
 #faq{
- background-color: #00f2de;
-background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  background-color: #fafafa;
+  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
@@ -1130,7 +1131,7 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.
   position: absolute;
   right: 0;
   left: 20px;
-  color: #08e0a0;
+  color: rgb(4, 83, 153);
 }
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
   font-size: 24px;
@@ -1146,10 +1147,10 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.
   display: none;
 }
 .faq .faq-list a.collapsed {
-  color: #84ffd6;
+  color: rgba(0, 0, 0, 0.691);
 }
 .faq .faq-list a.collapsed:hover {
-  color: #2487ce;
+  color: black;
 }
 .faq .faq-list a.collapsed .icon-show {
   display: inline-block;

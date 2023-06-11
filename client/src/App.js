@@ -250,7 +250,7 @@ function App() {
                         <h3>Data Structure and Algorithm</h3>
                         <p
                           class="fst-italic"
-                          style={{ fontSize: "1.2rem", color: "black" }}
+                          style={{ fontSize: "0.9rem", color: "black" }}
                         >
                           ● Math &nbsp; ● Bit Manipulation &nbsp; ● Searching I
                           &nbsp; ● Searching II &nbsp; ● Array Rotation &nbsp; ●
@@ -343,8 +343,8 @@ function App() {
                     <li
                       data-aos="fade-up"
                       style={{
-                        "background-color": "black",
-                        color: "rgb(52, 207, 235)",
+                        "background-color": "#f0efef",
+                        color: "black",
                       }}
                     >
                       <i class="bx bx-help-circle icon-help"></i>{" "}
@@ -374,8 +374,8 @@ function App() {
                       data-aos="fade-up"
                       data-aos-delay="200"
                       style={{
-                        "background-color": "black",
-                        color: "rgb(52, 207, 235)",
+                        "background-color": "#f0efef",
+                        color: "black",
                       }}
                     >
                       <i class="bx bx-help-circle icon-help"></i>{" "}
@@ -405,8 +405,8 @@ function App() {
                       data-aos="fade-up"
                       data-aos-delay="300"
                       style={{
-                        "background-color": "black",
-                        color: "rgb(52, 207, 235)",
+                        "background-color": "#f0efef",
+                        color: "black",
                       }}
                     >
                       <i class="bx bx-help-circle icon-help"></i>{" "}
@@ -436,8 +436,8 @@ function App() {
                       data-aos="fade-up"
                       data-aos-delay="300"
                       style={{
-                        "background-color": "black",
-                        color: "rgb(52, 207, 235)",
+                        "background-color": "#f0efef",
+                        color: "black",
                       }}
                     >
                       <i class="bx bx-help-circle icon-help"></i>{" "}
@@ -467,8 +467,8 @@ function App() {
                       data-aos="fade-up"
                       data-aos-delay="300"
                       style={{
-                        "background-color": "black",
-                        color: "rgb(52, 207, 235)",
+                        "background-color": "#f0efef",
+                        color: "black",
                       }}
                     >
                       <i class="bx bx-help-circle icon-help"></i>{" "}
