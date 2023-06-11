@@ -523,7 +523,7 @@ section {
 }
 .about:before {
   content: "";
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(255, 255, 255, 0.5);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -565,7 +565,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: aqua;
+  color: rgb(4, 83, 153);
 }
 .about .content p:last-child {
   margin-bottom: 0;
