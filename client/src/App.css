@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+.course-container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.course-header{
+  height: 15vh;
+  /* background-color: red; */
+  width: 100vw;
+  text-align: center;
+  color: rgb(4, 83, 153);;
+}
+
+.course-content{
+  height: 80vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.course-dropdowns{
+  height: 100%;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  /* background-color: blue; */
+}
+
+.course-card{
+  height: 100%;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  /* background-color: green; */
+  padding-top: 100px;
+}
