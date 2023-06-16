@@ -60,6 +60,11 @@ function App() {
             <i class="bi bi-list mobile-nav-toggle"></i>
           </nav>
           <a href="#contact" class=" scrollto d-none d-lg-flex"></a>
+          <div class="btns">
+                <a href="#contact" class="btn-menu animated fadeInUp scrollto">
+                  Buy now
+                </a>
+              </div>
         </div>
       </header>
 
@@ -81,11 +86,11 @@ function App() {
               </h2>
               <br />
 
-              <div class="btns">
+              {/* <div class="btns">
                 <a href="#contact" class="btn-menu animated fadeInUp scrollto">
                   Buy now
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

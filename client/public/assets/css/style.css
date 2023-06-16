@@ -329,10 +329,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px 0 0 0;
   font-size: 22px;
 }
-#hero .btns {
+.btns {
   margin-top: 30px;
 }
-#hero .btn-menu, #hero .btn-book {
+.btn-menu, .btn-book {
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 0.5px;
@@ -343,10 +343,10 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   line-height: 1;
   color: white;
-  border: 2px solid aqua;
+  border: 2px solid black;
 }
-#hero .btn-menu:hover, #hero .btn-book:hover {
-  background: rgb(35, 90, 229);
+.btn-menu:hover, .btn-book:hover {
+  background: black;
   color: #fff;
 }
 #hero .btn-book {
